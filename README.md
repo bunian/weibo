@@ -10,4 +10,4 @@
 
 ## LICENSE
 
-MIT © [beian](https://github.com/bunian/weibo)
+MIT © [weibo](https://github.com/bunian/weibo)
