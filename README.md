@@ -1,2 +1,13 @@
 # weibo
-自动发送定时微博
+>自动发送定时微博
+
+
+## TODO
+
+- [ ] 使用自己的“一言”api接口制作
+- [ ] 可自己定义发送微博时间
+- [ ] 可以发送图文微博
+
+## LICENSE
+
+MIT © [beian](https://github.com/bunian/weibo)
